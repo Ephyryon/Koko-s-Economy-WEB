@@ -1,0 +1,17 @@
+.main {
+    font-size: xx-large;
+    padding: 4%;
+}
+body {
+    height: 100%;
+    width: 100%;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    flex-direction: row;
+    width: 100%;
+    height: 500px;
+}
